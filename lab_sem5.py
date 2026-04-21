@@ -1,3 +1,5 @@
+# Revisado por el Ing. Jefe de Planta.
+
 # Módulo de monitoreo V2
 
 # 1. Alcance Global: Variable accesible por cualquier función
